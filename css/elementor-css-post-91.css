@@ -155,7 +155,7 @@
 
 body.elementor-page-91:not(.elementor-motion-effects-element-type-background),
 body.elementor-page-91>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #D12C2C;
+    background-color: #000000;
 }
 
 @media(max-width:767px) {
